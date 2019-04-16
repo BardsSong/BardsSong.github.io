@@ -2,6 +2,7 @@ body, html{
     height: 100%;
     width: 100%;
     overflow: hidden;
+    background-color: #ff8966;
 }
 
 
@@ -16,7 +17,7 @@ body, html{
 .project{
     height: 100%;
     width: 100%;
-    background-color: aqua;
+    background-color: #c9cba3;
 }
 
 a{
@@ -33,3 +34,10 @@ a{
     height: 200px;
     background: #2a2b2a;
 }
+
+
+#2a2b2a
+#706c61
+#c9cba3
+#e5446d
+#ff8966
