@@ -35,9 +35,8 @@ a{
     background-color: #2a2b2a;
 }
 
-
-#2a2b2a
-#706c61
-#c9cba3
-#e5446d
-#ff8966
+.linkBox{
+    border-radius: 15px;
+    border-color: #e5446d;
+    background-color: #ff8966;
+}
