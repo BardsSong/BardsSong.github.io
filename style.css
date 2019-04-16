@@ -36,7 +36,7 @@ a{
 }
 
 .linkBox{
+    border: 5px solid #ff8966;
     border-radius: 15px;
     border-color: #e5446d;
-    background-color: #ff8966;
 }
