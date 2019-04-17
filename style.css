@@ -19,7 +19,6 @@ body, html{
     background-color: #ff8966;
     border: 0px solid;
     border-radius: 20px;
-    margin: 15px;
     padding: 15px;
 }
 
@@ -29,6 +28,7 @@ a{
 }
 
 .navbar{
+    display: inline-block;
     position: fixed;
     top: 50px;
     z-index: 2;
