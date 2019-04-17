@@ -5,6 +5,27 @@ body, html{
     background-color: #c9cba3;
 }
 
+.navbar{
+    display: inline-block;
+    position: absolute;
+    top: 75px;
+    z-index: 2;
+    padding: 20px;
+    margin: 20px;
+    height: 200px;
+    background-color: #2a2b2a;
+}
+
+.linkBox{
+    margin: 15px;
+    padding: 15px;
+    border: 5px solid;
+    border-radius: 15px;
+    border-color: #e5446d;
+    background-color: #ff8966;
+    flex: 1;
+}
+
 .scroll{
     position: relative;
     overflow: scroll;
@@ -25,26 +46,4 @@ body, html{
 a{
     margin: 20px;
     padding:20px;
-}
-
-.navbar{
-    display: inline-block;
-    position: absolute;
-    top: 75px;
-    z-index: 2;
-    padding: 20px;
-    margin: 20px;
-    height: 200px;
-    background-color: #2a2b2a;
-    
-}
-
-.linkBox{
-    margin: 15px;
-    padding: 15px;
-    border: 5px solid;
-    border-radius: 15px;
-    border-color: #e5446d;
-    background-color: #ff8966;
-    flex: 1;
 }
