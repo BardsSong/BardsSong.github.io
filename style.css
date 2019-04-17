@@ -42,6 +42,7 @@ body, html{
     border: 0px solid;
     border-radius: 20px;
     padding: 15px;
+    align-content: center;
 }
 
 a{
