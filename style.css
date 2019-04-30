@@ -2,11 +2,11 @@ body, html{
     height: 100%;
     width: 100%;
     overflow: hidden;
-    background-color: #c9cba3;
+    background-color: #540804;
 }
 
 .navbar{
-    background-color: #2a2b2a;
+    background-color: #ea8c55;
     display: inline-block;
     position: absolute;
     top: 75px;
@@ -22,8 +22,8 @@ body, html{
     padding: 15px;
     border: 5px solid;
     border-radius: 15px;
-    border-color: #e5446d;
-    background-color: #ff8966;
+    border-color: #81171b;
+    background-color: #ad2e24;
     flex: 1;
 }
 
@@ -38,7 +38,7 @@ body, html{
 .project{
     height: 100%;
     width: 100%;
-    background-color: #ff8966;
+    background-color: #c75146;
     border: 0px solid;
     border-radius: 20px;
     padding: 15px;
