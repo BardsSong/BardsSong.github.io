@@ -3,6 +3,7 @@ body, html{
     width: 100%;
     overflow: hidden;
     background-color: #540804;
+    font-family: 'Roboto Slab', serif;
 }
 
 .navbar{
