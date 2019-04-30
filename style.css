@@ -49,6 +49,7 @@ body, html{
 a{
     margin: 20px;
     padding:20px;
+    font-style: oblique;
 }
 
 img{
